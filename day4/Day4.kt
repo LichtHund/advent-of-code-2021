@@ -2,7 +2,7 @@ package dev.triumphteam
 
 import java.io.File
 
-fun main(args: Array<String>) {
+fun main() {
   
     val magicSquare = listOf(
         listOf(1, 7, 13, 19, 25),
